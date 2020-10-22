@@ -1,4 +1,6 @@
 #SET OPTIONS AND LOAD PACKAGES-----
+
+# hi ant
 options(scipen=999)
 options(digits = 3)
 set.seed(123)
